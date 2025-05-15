@@ -1,0 +1,12 @@
+{
+  "heading": "Discover Emily Residence",
+  "description": "Just a 7-minute walk and you’re in the heart of Košice. Imagine the freedom and endless possibilities! Whether it’s daily errands or leisure activities, the city is right at your fingertips.",
+  "infoCards": [
+    { "number": 20, "label": "new apartments" },
+    { "number": 3, "label": "Parks nearby" },
+    { "number": 10, "label": "minutes to center" },
+    { "number": 9, "label": "design levels" },
+    { "number": 5, "label": "Minutes by car to center" },
+    { "number": 10, "label": "Minutes walk to center" }
+  ]
+}

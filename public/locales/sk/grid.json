@@ -1,0 +1,12 @@
+{
+  "heading": "Spoznajte rezidenciu Emily",
+  "description": "Len 7 minút pešo a ste priamo v srdci Košíc. Predstavte si tú slobodu a nepreberné možnosti! Či už ide o každodenné povinnosti alebo voľnočasové radosti, mesto máte na dosah z prvého radu.",
+  "infoCards": [
+    { "number": 20, "label": "nových bytov" },
+    { "number": 3, "label": "Parky v blízkosti" },
+    { "number": 10, "label": "minút do centra" },
+    { "number": 9, "label": "úrovní dizajnu" },
+    { "number": 5, "label": "Minút autom do centra" },
+    { "number": 10, "label": "Minút pešo do centra" }
+  ]
+}
