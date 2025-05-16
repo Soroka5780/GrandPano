@@ -4,7 +4,7 @@
 Next.js 
 
 1.Nainštaluj závislosti:
-    npm install
+    npm install --legacy-peer-deps
 
 2.Spusti vývojový server:
         npm run dev    
